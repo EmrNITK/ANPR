@@ -54,3 +54,7 @@ to work well in all the weather and lighting conditions. These are the objective
 - [ ] Using better image enhancement techniques for better efficiency
 - [ ] Making this algorithm to work well in all sorts of lighting conditions
 - [ ] Making a specialized OCR for the license plate text recognition
+
+## Contributions
+
+Members of EmR are requested to refer to the [M_CONTRIBUTING.md](./M_CONTRIBUTING.md) file before raising PRs or issues. Individuals outside of EmR must refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file before raising PRs or issues.
