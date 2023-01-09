@@ -17,6 +17,11 @@ Here is the list of dependencies for this project :-
 - [numpy](https://pypi.org/project/numpy/)
 - [pytesseract](https://pypi.org/project/pytesseract/)
 
+You can directly install all these dependencies using the [requirements.txt](./requirements.txt) file by navigating to project folder and typing the command below in the terminal
+```shell
+pip install -r requirements.txt
+```
+
 Run the ANPR script by typing the command below in the terminal
 ```
 python ANPR script.py
